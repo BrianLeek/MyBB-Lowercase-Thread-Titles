@@ -1,16 +1,12 @@
-Plugin Name: Lowercase Thread Titles
-
-Description: Converts thread titles to all lowercase letters.
-
-Author: Brian. ( https://community.mybb.com/user-115119.html )
-
-Version: 1.1
-
+ - Plugin Name: Lowercase Thread Titles
+ - Description: Converts thread titles to all lowercase letters.
+ - Author: Brian. ( https://community.mybb.com/user-115119.html )
+ - Version: 1.1
 
 This plugin converts thread titles to all lowercase letters.
 
 # How To Install:
- - Upload /inc/plugins/lowercase.php to your /inc/plugins folder on your forum.
+ - Upload lowercase.php to /inc/plugins.
  - Go to your Admin CP and plugins.
  - Activate Lowercase Thread Titles plugin.
 
